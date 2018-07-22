@@ -86,7 +86,7 @@
     "path-to-regexp": "^2.1.0",
     "preact": "^8.2.1",
     "preact-context-provider": "^1.1.1",
-    "tachyons": "^4.7.4",
+    "tachyons": "^4.11.1",
     "timidity": "^1.0.0",
     "undom": "^0.4.0",
     "uuid": "^3.2.1"
