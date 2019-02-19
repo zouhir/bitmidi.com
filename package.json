@@ -119,7 +119,7 @@
     "simple-sha256": "^1.0.0",
     "standard": "*",
     "tinyify": "^2.4.1",
-    "watchify": "^3.11.0"
+    "watchify": "^3.11.1"
   },
   "homepage": "https://bitmidi.com",
   "license": "-",
